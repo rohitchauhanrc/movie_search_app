@@ -1,16 +1,26 @@
-# movie_app
+# 🎬 **Cinemania**  
+> A beautifully designed movie app built with **Flutter** and **Dart**, powered by **TMDB API**, offering movie details, trailers, search functionality, and personalized recommendations.
 
-A new Flutter project.
+---
 
-## Getting Started
+## 🌟 **Features**
+- 📖 Explore **detailed information** about movies, including cast, crew, and genres.   
+- 🔍 **Search** for your favorite movies or discover new ones.  
+- 🤖 Get personalized **recommendations**.  
+- 🌟 View **popular, top-rated, and upcoming movies** curated by TMDB.  
+- 🎨 Built with **Flutter** for smooth and responsive UI.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ **Tech Stack**
+### **Frameworks & Languages**
+- **Flutter**  
+- **Dart**  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### **APIs & Libraries**
+- **TMDB API**  
+- **HTTP** for API handling 
+- **Cached Network Image** for smooth image loading  
+
+---
